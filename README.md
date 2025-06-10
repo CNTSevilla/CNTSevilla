@@ -6,7 +6,7 @@ La Confederación Nacional del Trabajo (CNT) es una organización anarcosindical
 En CNT Sevilla luchamos día a día por la defensa de los derechos laborales, la justicia social y la transformación radical de la sociedad hacia un modelo basado en la autogestión, la solidaridad y la acción directa.
 
 ## 🛠️ Compromiso con el Software Libre
-Desde la CNT no podemos más que animar a todos los usuarios a que den el salto al software libre. Si bien muy pocos trabajadores somos informáticos, esto nos atañe a todos puesto que la inmensa mayoría empleamos practicamente a diario software informático. En un mundo en el que las nuevas tecnologías adquieren cada vez más relevancia no podemos dejar de lado esta lucha.Entendemos el software libre como una extensión natural de nuestros principios anarcosindicalistas:
+Desde la CNT no podemos más que animar a todos los usuarios a que den el salto al software libre. Si bien muy pocos trabajadores somos informáticos, esto nos atañe a todos, puesto que la inmensa mayoría empleamos practicamente a diario software informático. En un mundo en el que las nuevas tecnologías adquieren cada vez más relevancia, no podemos dejar de lado esta lucha; Entendemos el software libre como una extensión natural de nuestros principios anarcosindicalistas:
 
 **🔓 Libertad:** El código abierto garantiza las libertades fundamentales de uso, estudio, modificación y distribución de este
 
