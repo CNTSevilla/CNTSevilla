@@ -60,7 +60,7 @@ Afiliate y milita en nuestra seccion de nuevas tecnologias, aportando regularmen
 
 **2. Quiero aportar una sola vez:**
 
-Fork cualquiera de nuestros repositorios, contribuye con tu código, documentación o traducciones y haznos un Pull Request. Tambien puedes reportar bugs o ideas de mejora en la pestaña Issues de cada proyecto.
+Haz un fork de cualquiera de nuestros repositorios, contribuye con tu código, documentación o traducciones y haznos un Pull Request. Tambien puedes reportar bugs o ideas de mejora en la pestaña Issues de cada proyecto.
 
 -----
 *"Hay que enseñar a los usuarios a valorar su libertad para que no acepten el software que le prive de ella" - Richard Stallman*
