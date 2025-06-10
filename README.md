@@ -37,8 +37,11 @@ Apostamos por:
 ## 📞 Contacto
 
 **🌐 Web:** sevilla.cnt.es
+
 **🐦 X (Twitter):** @cnt_sevilla
+
 **📘 Facebook:** CNTSevilla
+
 **📱 Instagram:** @cnt_sevilla
 
 **📧 Contribuciones:** ¡Toda la comunidad está invitada a participar!
@@ -46,11 +49,12 @@ Apostamos por:
 ## 🤝 Cómo Colaborar
 
 **Hay dos vias de colaboracion:**
-1. Si compartes nuestra vision del mundo:
+
+**1. Si compartes nuestra vision del mundo:**
 
 Afiliate y milita en nuestra seccion de nuevas tecnologias, aportando regularmente a nuestros proyectos.
 
-2. Quiero aportar una sola vez:
+**2. Quiero aportar una sola vez:**
 
 Fork cualquiera de nuestros repositorios, contribuye con tu código, documentación o traducciones y haznos un Pull Request. Tambien puedes reportar bugs o ideas de mejora en la pestaña Issues de cada proyecto.
 
@@ -58,7 +62,7 @@ Fork cualquiera de nuestros repositorios, contribuye con tu código, documentaci
 *"Hay que enseñar a los usuarios a valorar su libertad para que no acepten el software que le prive de ella" - Richard Stallman*
 
 
-#✊ CNT Sevilla - Por la revolución social y la tecnología libre
+# ✊ CNT Sevilla - Por la revolución social y la tecnología libre
 
 🏷️ Tags
 anarcosindicalismo software-libre open-source accion-directa autogestión sindicalismo sevilla andalucia copyleft tecnologia-libre
