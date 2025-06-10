@@ -44,8 +44,6 @@ Apostamos por:
 
 **📱 Instagram:** @cnt_sevilla
 
-**📧 Contribuciones:** ¡Toda la comunidad está invitada a participar!
-
 ## 🤝 Cómo Colaborar
 
 **Hay dos vias de colaboracion:**
