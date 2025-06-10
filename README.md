@@ -33,9 +33,12 @@ Desde la CNT no podemos más que animar a todos los usuarios a que den el salto 
 Apostamos por:
 
 - **Licencias GNU o CC0:** Garantizando que las mejoras reviertan en la comunidad
+
 - **Estándares Abiertos:** Facilitando la interoperabilidad y evitando la dependencia
+
 - **Desarrollo para la Comunidad:** Priorizando las necesidades colectivas sobre cualquier interes comercial
-**Transparencia:** Código abierto como garantía de transparencia y auditabilidad, nada de vender tus datos
+  
+- **Transparencia:** Código abierto como garantía de transparencia y auditabilidad, nada de vender tus datos
 
 ## 📞 Contacto
 
