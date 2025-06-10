@@ -68,5 +68,5 @@ Haz un fork de cualquiera de nuestros repositorios, contribuye con tu código, d
 
 # ✊ CNT Sevilla - Por la revolución social y la tecnología libre
 
-🏷️ Tags
+####🏷️ Tags
 anarcosindicalismo software-libre open-source accion-directa autogestión sindicalismo sevilla andalucia copyleft tecnologia-libre
