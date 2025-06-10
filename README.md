@@ -9,8 +9,11 @@ En CNT Sevilla luchamos día a día por la defensa de los derechos laborales, la
 Desde la CNT no podemos más que animar a todos los usuarios a que den el salto al software libre. Si bien muy pocos trabajadores somos informáticos, esto nos atañe a todos puesto que la inmensa mayoría empleamos practicamente a diario software informático. En un mundo en el que las nuevas tecnologías adquieren cada vez más relevancia no podemos dejar de lado esta lucha.Entendemos el software libre como una extensión natural de nuestros principios anarcosindicalistas:
 
 **🔓 Libertad:** El código abierto garantiza las libertades fundamentales de uso, estudio, modificación y distribución de este
+
 **🤝 Apoyo Mutuo:** Las comunidades de software libre se basan en la colaboración y el apoyo mutuo, tal y como nosotros concebimos la sociedad.
+
 **⚡ Acción Directa:** Los usuarios controlan directamente su tecnología sin intermediarios corporativos, si quieres aportar algo, simplemente hazlo.
+
 **🌍 Autogestión:** Las comunidades se organizan horizontalmente y toman decisiones de manera asamblearia, de forma que el futuro del software lo decide la gente que lo usa.
 
 ## 🎯 Objetivos de Nuestros Proyectos
