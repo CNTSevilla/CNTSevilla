@@ -21,11 +21,11 @@ Desde la CNT no podemos más que animar a todos los usuarios a que den el salto 
 ### Para la Organización 
 
 - Desarrollar herramientas que faciliten la organización y comunicación dentro de la propia organizacion, asi como con otras organizaciones locales.
-- Impulsar la formación tecnológica dentro de nuestra organizacion, para que todos podamos ser participes de la tecnologia y no solo los que tienen el privilegio de estudiarla.
+- Impulsar la formación tecnológica dentro de nuestra organización, para que todos podamos ser participes de la tecnología y no solo los que tienen el privilegio de estudiarla.
 
 ### Para la Sociedad
 
-- Promover el uso de software libre como alternativa al software privativo
+- Promover el uso de software libre como alternativa al software propietario
 - Contribuir al desarrollo de tecnologías libres y descentralizadas
 - Fomentar la soberanía tecnológica frente a las grandes corporaciones
 
@@ -36,7 +36,7 @@ Apostamos por:
 
 - **Estándares Abiertos:** Facilitando la interoperabilidad y evitando la dependencia
 
-- **Desarrollo para la Comunidad:** Priorizando las necesidades colectivas sobre cualquier interes comercial
+- **Desarrollo para la Comunidad:** Priorizando las necesidades colectivas sobre cualquier interés comercial
   
 - **Transparencia:** Código abierto como garantía de transparencia y auditabilidad, nada de vender tus datos
 
@@ -52,11 +52,11 @@ Apostamos por:
 
 ## 🤝 Cómo Colaborar
 
-**Hay dos vias de colaboracion:**
+**Hay dos vías de colaboracion:**
 
-**1. Si compartes nuestra vision del mundo:**
+**1. Si compartes nuestra visión del mundo:**
 
-Afiliate y milita en nuestra seccion de nuevas tecnologias, aportando regularmente a nuestros proyectos.
+Afíliate y milita en nuestra seccion de nuevas tecnologías, aportando regularmente a nuestros proyectos.
 
 **2. Quiero aportar una sola vez:**
 
